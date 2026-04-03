@@ -192,5 +192,3 @@ cython_debug/
 *.out
 *.log
 Reproducible_Code/Data/PBMC_dict.npy
-Reproducible_Code/Data/astro_scaled_mean_imputed_with_ids_all.csv
-Reproducible_Code/Data/cluster_labels_final.csv
