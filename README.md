@@ -21,11 +21,7 @@ This environment is intended to provide a reproducible software setup for rerunn
 
 ## Reproducing the Paper Figures
 
-The notebooks in `Reproducible_Code/` reproduce the figures and experiments from the paper. Before running them, download the data from https://zenodo.org/records/19410650 and save it in `Reproducible_Code/Data/`. After activating the environment, you can start Jupyter and open the notebooks from that directory:
-
-```bash
-jupyter notebook
-```
+The notebooks in `Reproducible_Code/` reproduce the figures and experiments from the paper. Before running them, download the data from https://zenodo.org/records/19410650 and save it in `Reproducible_Code/Data/`.
 
 The `Reproducible_Code/Figures/` and `Reproducible_Code/Results/` directories contain generated outputs associated with these experiments.
 
